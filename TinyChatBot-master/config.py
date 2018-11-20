@@ -1,7 +1,7 @@
 # Tinychat account.
 ACCOUNT = 'defbot'
 # Password for account
-PASSWORD = 'beepboop'
+PASSWORD = ''
 BOTNICK = 'Defbot'
 # Define rooms the bot will manage in a list format : ['room1','room2','room3']
 ROOMS = ['defients']
